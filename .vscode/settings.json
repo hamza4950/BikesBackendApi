@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/2c1a7063-08be-452b-a34e-b3bd803c415a/resourceGroups/BikesWebApp_group/providers/Microsoft.Web/sites/BikesWebApp",
+    "appService.deploySubpath": "."
+}
